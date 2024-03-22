@@ -76,4 +76,4 @@ descripcion varchar(45)
 );
 ```
 ###Identificamos las relaciones entre las entidades y construimos el diagrama
-![Visualización del Diagrama](https://imgur.com/a/jvVwOiE)
+![Visualización del Diagrama](https://i.imgur.com/9nFIgof.png)
