@@ -75,6 +75,6 @@ nombre varchar(45) not null,
 descripcion varchar(45)
 );
 ```
-###Identificamos las relaciones entre las entidades y construimos el diagrama
+##Identificamos las relaciones entre las entidades y construimos el diagrama
 
 ![Visualización del Diagrama](https://i.imgur.com/9nFIgof.png)
